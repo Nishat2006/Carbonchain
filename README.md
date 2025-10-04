@@ -153,16 +153,20 @@ START_ALL.bat
 ## 📸 Screenshots
 
 ### Initial Assessment
-![Assessment](https://via.placeholder.com/800x400/667eea/ffffff?text=Project+Assessment+Form)
+![WhatsApp Image 2025-10-04 at 23 27 24_056aeacf](https://github.com/user-attachments/assets/6115f055-61aa-41cc-9aa2-f75562706b03)
+
 
 ### Carbon Marketplace
-![Marketplace](https://via.placeholder.com/800x400/764ba2/ffffff?text=Live+Market+with+Real-Time+Pricing)
+![WhatsApp Image 2025-10-04 at 23 27 23_57bbe710](https://github.com/user-attachments/assets/8d891731-e438-4aae-a0a9-96b328419aa0)
+
 
 ### Impact Dashboard
-![Dashboard](https://via.placeholder.com/800x400/4CAF50/ffffff?text=Environmental+Impact+Dashboard)
+![WhatsApp Image 2025-10-04 at 23 27 23_9bbff530](https://github.com/user-attachments/assets/4c267544-cf25-4b28-85ef-65e729a63cd2)
+
 
 ### Blockchain Registry
-![Blockchain](https://via.placeholder.com/800x400/2196F3/ffffff?text=Aptos+Blockchain+Integration)
+![WhatsApp Image 2025-10-04 at 23 27 23_cc277b6b](https://github.com/user-attachments/assets/3e1a9c1b-c955-4ae2-b91e-6e4968207087)
+
 
 ---
 
@@ -390,7 +394,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-**Developed by**: Nishat and Team
+**Developed by**: Nishat , Manas , Parth , Kunjan 
 
 **Contact**: [GitHub](https://github.com/Nishat2006)
 
@@ -406,17 +410,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
 
-For support, email nishat@example.com or open an issue on GitHub.
 
 ---
 
 <div align="center">
 
-**⭐ Star this repository if you find it helpful!**
-
-Made with 💚 for a sustainable future
 
 [🌊 CarbonChain](https://github.com/Nishat2006/Carbonchain) | [📖 Documentation](./QUICK_START.md) | [🐛 Report Bug](https://github.com/Nishat2006/Carbonchain/issues) | [✨ Request Feature](https://github.com/Nishat2006/Carbonchain/issues)
 
