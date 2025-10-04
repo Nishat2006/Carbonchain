@@ -1,0 +1,58 @@
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.12.1
+
+# Pydantic for validation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# CORS and middleware
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# File handling
+aiofiles==23.2.1
+pillow==10.1.0
+
+# HTTP client
+httpx==0.25.1
+requests==2.31.0
+
+# Date/time
+python-dateutil==2.8.2
+
+# Optional: For PostgreSQL (comment out if using SQLite only)
+# psycopg2-binary==2.9.9
+
+# Optional: For AI/ML features (uncomment when needed)
+# tensorflow==2.15.0
+# torch==2.1.0
+# torchvision==0.16.0
+# opencv-python==4.8.1.78
+# numpy==1.26.2
+# scikit-learn==1.3.2
+
+# Blockchain integration
+aptos-sdk==0.8.0
+# web3==6.11.3
+# eth-account==0.10.0
+
+# Optional: For satellite imagery (uncomment when needed)
+# earthengine-api==0.1.382
+# rasterio==1.3.9
+# sentinelhub==3.9.1
+
+# Optional: Background tasks
+# celery==5.3.4
+# redis==5.0.1
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.1
